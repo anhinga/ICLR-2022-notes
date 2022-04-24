@@ -4,7 +4,7 @@ My notes related to ICLR 2022
 
 https://iclr.cc/virtual/2022/index.html
 
-## Week of conference
+## The week of conference
 
 ### Day 1
 
