@@ -6,9 +6,11 @@ https://iclr.cc/virtual/2022/index.html
 
 ## The week of conference
 
-(First talk - the quality of real-time streaming was pretty bad, the quality of replay was good.
+(The first invited talk - the quality of real-time streaming was pretty bad, the quality of replay was good.
 
-One needs to attend real-time if one wants to ask questions oneself; otherwise a more sedate approach might be better.)
+One needs to attend real-time if one wants to ask questions oneself; otherwise a more sedate approach might be better.
+
+The second invited talk - the quality is fine now.)
 
 ### Day 1
 
