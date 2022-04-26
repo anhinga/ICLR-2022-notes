@@ -10,7 +10,7 @@ https://iclr.cc/virtual/2022/index.html
 
 One needs to attend real-time if one wants to ask questions oneself; otherwise a more sedate approach might be better.
 
-The second invited talk - the quality is fine now.)
+The second invited talk - the quality is fine now. Oral 1: AI Applications track - problems with real-time streaming again.)
 
 ### Day 1
 
