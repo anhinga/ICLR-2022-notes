@@ -4,6 +4,20 @@ My notes related to ICLR 2022
 
 https://iclr.cc/virtual/2022/index.html
 
+## A few highlights
+
+The first invited talk, "Leveraging AI for Science" by Pushmeet Kohli
+
+https://iclr.cc/virtual/2022/invited-talk/7238
+
+Workshop: "From Cells to Societies: Collective Learning Across Scales"
+
+https://iclr.cc/virtual/2022/workshop/4553
+
+"Workshop on Agent Learning in Open-Endedness"
+
+https://iclr.cc/virtual/2022/workshop/4547
+
 ## The week of conference
 
 (The first invited talk - the quality of real-time streaming was pretty bad, the quality of replay was good.
