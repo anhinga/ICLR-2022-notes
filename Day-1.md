@@ -59,6 +59,50 @@ https://iclr.cc/virtual/2022/session/8349
 
 https://iclr.cc/virtual/2022/session/8350
 
+ * How unlabeled data improve generalization in self-training? A one-hidden-layer theoretical analysis
+ * The Spectral Bias of Polynomial Neural Networks
+ * A Generalized Weighted Optimization Method for Computational Learning and Inversion
+ * Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noise
+ * Critical Points in Quantum Generative Models
+ * Gradient Importance Learning for Incomplete Observations
+ * **Learning to Guide and to be Guided in the Architect-Builder Problem**
+ * Understanding Intrinsic Robustness Using Label Uncertainty
+ * Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks
+ * Efficient Self-supervised Vision Transformers for Representation Learning
+ * **Fast Model Editing at Scale**
+ * **Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface**
+ * On Predicting Generalization using GANs
+ * Which Shortcut Cues Will DNNs Choose? A Study from the Parameter-Space Perspective
+ * **Tackling the Generative Learning Trilemma with Denoising Diffusion GANs**
+ * **Illiterate DALL-E Learns to Compose**
+ * Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series
+ * Salient ImageNet: How to discover spurious features in Deep Learning?
+ * A Tale of Two Flows: Cooperative Learning of Langevin Flow and Normalizing Flow Toward Energy-Based Model
+ * Vision-Based Manipulators Need to Also See from Their Hands
+ * Chunked Autoregressive GAN for Conditional Waveform Synthesis
+ * Quadtree Attention for Vision Transformers
+ * **Optimizer Amalgamation**
+ * Information-theoretic Online Memory Selection for Continual Learning
+ * How Much Can CLIP Benefit Vision-and-Language Tasks?
+ * Coordination Among Neural Modules Through a Shared Global Workspace
+ * MCMC Should Mix: Learning Energy-Based Model with Neural Transport Latent Space MCMC
+ * When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations
+ * Hierarchical Few-Shot Imitation with Skill Transition Models
+ * Spherical Message Passing for 3D Molecular Graphs
+ * **Anisotropic Random Feature Regression in High Dimensions**
+ * Modular Lifelong Reinforcement Learning via Neural Composition
+ * Exploring the Limits of Large Scale Pre-training
+ * Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks
+ * From Stars to Subgraphs: Uplifting Any GNN with Local Structure Awareness
+ * Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation
+ * Continual Learning with Filter Atom Swapping
+ * MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer
+ * EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression
+ * **Peek-a-Boo: What (More) is Disguised in a Randomly Weighted Neural Network, and How to Find It Efficiently** (Sparsity considerations)
+ * Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice
+ * ...
+ 
+
 ## Poster Session 3
 
 
