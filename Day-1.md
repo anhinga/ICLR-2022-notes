@@ -54,6 +54,13 @@ https://iclr.cc/virtual/2022/session/8349
  * _SUMNAS: Supernet with Unbiased Meta-Features for Neural Architecture Search_ **THIS ONE**
  * Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity
  * Memory Replay with Data Compression for Continual Learning
- * 
+
+## Poster Session 2
+
+https://iclr.cc/virtual/2022/session/8350
+
+## Poster Session 3
+
+
 
 
