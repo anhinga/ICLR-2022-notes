@@ -34,7 +34,7 @@ The second invited talk - the quality is fine now. Oral 1: AI Applications track
 
 ### Day 4
 
-### Day 5
+### [Day 5 - workshops](Workshops)
 
 ## Post-conference
 
