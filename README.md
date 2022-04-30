@@ -7,7 +7,7 @@ https://iclr.cc/virtual/2022/index.html
 ```diff
 @@ I am planning to update these notes for the next few weeks. @@
 
-@@ This conference is too big to take it all in in real time. @@ 
+@@ This conference is too big to take it all in in real time.  @@ 
 ```
 
 ## A few highlights
