@@ -13,3 +13,5 @@ https://iclr.cc/virtual/2022/workshop/4553
 "Workshop on Agent Learning in Open-Endedness":
 
 https://iclr.cc/virtual/2022/workshop/4547
+
+"Why Open-Endedness Matters to Machine Learning" - an inspiring talk by Ken Stanley
