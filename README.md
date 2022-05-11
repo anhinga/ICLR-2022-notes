@@ -24,6 +24,10 @@ https://iclr.cc/virtual/2022/workshop/4553
 
 https://iclr.cc/virtual/2022/workshop/4547
 
+_These links are currently only available with ICLR registration, but at least the materials
+for the "From Cells to Societies: Collective Learning Across Scales" workshop (and perhaps
+some othe materials too?) are expected to be available for the general public after May 30, 2022._
+
 ## The week of conference
 
 (The first invited talk - the quality of real-time streaming was pretty bad, the quality of replay was good.
